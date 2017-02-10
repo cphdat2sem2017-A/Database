@@ -13,6 +13,7 @@ We will recap the SQL select statement to query a database. We will focus on mul
 There are different resources about SQL and MySQL online. Three good ones are: 
 
 http://www.w3schools.com/sql/default.asp 
+
 http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
 
 Wikipedia also has good examples for most SQL commands
