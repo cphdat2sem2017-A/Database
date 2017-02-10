@@ -3,7 +3,7 @@
 ##Day 1 (Monday): From business to database - Database design 
 We will look at different types of data models and how logical data models are transformed into physical data models. Focus will be on design principles and central properties for database tables. You will learn how to forward engineer a database from visual database modeling in MySQL Workbench.
 
-###Readings: 
+###Readings/Tutorials: 
 https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html
 
 ##Day 2 (Tuesday): SQL Queries 
