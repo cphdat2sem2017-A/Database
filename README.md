@@ -10,7 +10,12 @@ https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html
 ##Day 2 (Tuesday): SQL Queries 
 We will recap the SQL select statement to query a database. We will focus on multi-table queries (joins) and SQL aggregate functions (especially grouping of results) 
 
-###Tutorials: There are different resources about SQL and MySQL online. Three good ones are:
+###Tutorials: 
+There are different resources about SQL and MySQL online. Three good ones are: 
+
+http://www.w3schools.com/sql/default.asp and http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
+Wikipedia also has good examples for most SQL commands
+
 ###Readings:  
 
 ##Day 3 (Wednesday): SQL Data manipulation (DML) and Data Definition (DDL) 
