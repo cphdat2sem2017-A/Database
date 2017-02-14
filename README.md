@@ -13,11 +13,13 @@ Create a Library database by forward engineering a MYSQL Workbench EER diagram (
 We will recap the SQL select statement to query a database. We will focus on multi-table queries (joins) and SQL aggregate functions (especially grouping of results) 
 
 ###Tutorials: 
-There are different resources about SQL and MySQL online. Two good ones are: 
+There are different resources about SQL and MySQL online. Three good ones are: 
 
 http://www.w3schools.com/sql/default.asp 
 
 http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
+
+http://www.mysqltutorial.org/
 
 Wikipedia also has good examples for most SQL commands
 
