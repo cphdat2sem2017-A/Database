@@ -6,6 +6,9 @@ We will look at different types of data models and how logical data models are t
 ###Readings/Tutorials: 
 https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html
 
+###Homework:
+Create a Library database by forward engineering a MYSQL Workbench EER diagram (see Library-System.pdf for spec).
+
 ##Day 2 (Tuesday): SQL Queries 
 We will recap the SQL select statement to query a database. We will focus on multi-table queries (joins) and SQL aggregate functions (especially grouping of results) 
 
@@ -18,6 +21,8 @@ http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
 
 Wikipedia also has good examples for most SQL commands
 
+###Homework:
+Finish SQL Select statement exercises in the slides from today (see last slide for more info).
 
 ##Day 3 (Wednesday): SQL Data manipulation (DML) and Data Definition (DDL) 
 We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL DDL statements CREATE TABLE and CREATE VIEW. We will also cover backup of databases.
