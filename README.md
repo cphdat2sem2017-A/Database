@@ -18,7 +18,6 @@ http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
 
 Wikipedia also has good examples for most SQL commands
 
-###Readings:  
 
 ##Day 3 (Wednesday): SQL Data manipulation (DML) and Data Definition (DDL) 
 We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL DDL statements CREATE TABLE and CREATE VIEW. We will also cover backup of databases.
