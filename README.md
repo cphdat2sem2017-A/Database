@@ -22,7 +22,8 @@ Wikipedia also has good examples for most SQL commands
 ##Day 3 (Wednesday): SQL Data manipulation (DML) and Data Definition (DDL) 
 We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL DDL statements CREATE TABLE and CREATE VIEW. We will also cover backup of databases.
  
-###Tutorials: Same as Day 2
+###Tutorials: 
+Same as Day 2
 
 ##Day 4 (Thursday): Normalization and optimization 
 We will work with quality techniques for database design to avoid redundant data that can lead to inconsistencies in the database. We will also focus on the query process and optimization of responses to user queries.
