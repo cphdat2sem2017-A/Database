@@ -27,16 +27,18 @@ Wikipedia also has good examples for most SQL commands
 Finish SQL Select statement exercises in the slides from today (see last slide for more info).
 
 ##Day 3 (Wednesday): SQL Data manipulation (DML) and Data Definition (DDL) 
-We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL DDL statements CREATE TABLE and CREATE VIEW. We will also cover backup of databases.
+We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL DDL statements CREATE TABLE and CREATE VIEW. We will also briefly cover backup of tables.
  
 ###Tutorials: 
 Same as Day 2
 
-##Day 4 (Thursday): Normalization and optimization 
-We will work with quality techniques for database design to avoid redundant data that can lead to inconsistencies in the database. We will also focus on the query process and optimization of responses to user queries.
+##Day 4 (Thursday): Normalization and optimization
+We will work with quality techniques for database design to avoid redundant data that can lead to inconsistencies in the database.
 
 ###Tutorials:
-###Readings:
+Lynda.com (cphBusiness has free account)
+https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Databases/412845-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aFoundations-Programming-Databases%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
 
 ##Day 5 (Friday): Individual Study Point Assignment 
 The assignment covers topics from this week.
