@@ -32,7 +32,7 @@ We will work with SQL DML statements SELECT, INSERT, UPDATE and DELETE and SQL D
 ###Tutorials: 
 Same as Day 2
 
-##Day 4 (Thursday): Normalization 
+##Day 4 (Thursday): Normalization and optimization
 We will work with quality techniques for database design to avoid redundant data that can lead to inconsistencies in the database.
 
 ###Tutorials:
