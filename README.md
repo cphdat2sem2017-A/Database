@@ -36,6 +36,7 @@ Same as Day 2
 We will work with quality techniques for database design to avoid redundant data that can lead to inconsistencies in the database.
 
 ###Tutorials:
+Lynda.com (cphBusiness has free account)
 https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Databases/412845-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aFoundations-Programming-Databases%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 
 
